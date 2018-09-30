@@ -1,0 +1,79 @@
+.order{
+	position:absolute;
+	width: 22%;
+	height: 40%;
+	right: 19.5%;
+	top: 96.5%;
+	border-radius: 1%;
+	border: transparent;
+	box-shadow: 11px 27px 25px -5px #D3D3D3,
+				-11px 1px 15px -5px #D3D3D3;
+					
+}
+
+#order_details, #city, #order_number, #city_field, #order_number_field, #request_button {
+	position: absolute;
+	color: blue;
+	font-family: "Shabnam";
+	font-size: 10px;	
+}
+
+#order_details {
+	right:8%;
+	top: 2.5%;	
+} 
+
+#city {
+	right:11%;
+	top: 18%;
+}
+
+#city_field, #order_number_field, #request_button {
+	right: 9%;
+	top: 24%;
+	height: 22px;
+	width: 234px;
+	padding-right: 8px;
+	padding-bottom: 3px; 
+	padding-top: 5px;
+	border: 1px solid #D3D3D3;
+	color: #cccccc;
+	background-color: #f2f2f2;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+#order_number {
+	right:11%;
+	top: 42%;
+}
+
+#order_number_field {
+	top: 47.5%;	
+}
+
+#expand_arrow {
+	position: absolute;
+	top: 28%;
+	right: 84%;
+	width: 8px;
+	height: 8px;
+}
+
+#request_line {
+	position: absolute;
+	top:77%;
+	right: 10%;
+	width: 80%;
+}
+
+#request_button {
+	top: 81%;
+	height: 28px;
+	background-color: blue;
+}
+
+
+

@@ -1,0 +1,62 @@
+#contact_us_title, #contact_us_text, #email_title, #email, #phone_title, #phone, #social {
+	position: absolute;
+	top:36%;
+	right: 26%;
+	font-family: "Shabnam";
+    font-size: 15px;
+	color: #808080;	
+}
+
+#contact_us_text {
+	top: 39%;
+	font-size: 13px;
+	line-height: 80%;
+}
+
+#contact_letter_icon, #contact_phone_icon, #contact_vertical_line {
+	position: absolute;
+	top: 52%;
+	right: 26%;	
+}
+
+#email_title, #email, #phone_title, #phone, #social {
+	top: 52.5%;
+	right: 31%;
+	font-size: 10px;
+}
+
+#email, #phone {
+	top: 56%;	
+}
+
+#phone {
+	font-family: "Shabnam-digit";
+}
+
+#contact_phone_icon {
+	right: 39%;
+}
+
+#phone_title, #phone {
+	right: 44%;
+}
+	
+#contact_vertical_line { 
+	top: 54%;
+	right: 54%;	
+	height: 45px;
+}
+
+#social {
+	right: 55%;
+}
+
+#bold{
+	font-weight: bold;
+}
+
+#contact_line {
+	position: absolute;
+	top: 63%;
+	right: 23.75%;
+}

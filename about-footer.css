@@ -1,0 +1,196 @@
+@font-face {
+  font-family: "Shabnam";
+  src: url("shabnam/Shabnam.eot");
+  src: url("shabnam/Shabnam.eot?#iefix") format('embedded-opentype'),
+       url("shabnam/Shabnam.woff") format('woff'),
+       url("shabnam/Shabnam.ttf") format('truetype');
+  font-weight: normal;
+}
+      
+@font-face {
+  font-family: "Shabnam-Bold";
+  src: url("shabnam/Shabnam-Bold.eot");
+  src: url("shabnam/Shabnam-Bold.eot?#iefix") format('embedded-opentype'),
+       url("shabnam/Shabnam-Bold.woff") format('woff'),
+       url("shabnam/Shabnam-Bold.ttf") format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Shabnam-Light";
+  src: url("shabnam/Shabnam-Light.eot");
+  src: url("shabnam/Shabnam-Light.eot?#iefix") format('embedded-opentype'),
+       url("shabnam/Shabnam-Light.woff") format('woff'),
+       url("shabnam/Shabnam-Light.ttf") format('truetype');
+  font-weight: 300;
+}
+
+.footer {
+	position:absolute;
+	left: 0;
+	bottom: -47.5%;
+	width: 100%;
+	height: 28%;
+	background-color: #f5f5f5;
+}
+
+#head1, #head2, #head3, #head4 {
+	color: 	#696969;
+	position:absolute;
+	top: 14.5%;
+	font-family: "Shabnam";	
+}
+
+#head1 {
+	right: 16%;	
+	font-size: 14px;
+}
+
+#head2 {
+	right: 31%;	
+	font-size: 14px;
+}
+
+#head3 {
+	right: 46%;
+	font-size: 15px;
+}
+
+#head4{
+	right: 66.5%;
+	font-size: 11px;
+	top: 17%;
+}
+
+#head11, #head12, #head13, #head14, #head21, #head22 {
+	color: 	#696969;
+	position:absolute;
+	font-family: "Shabnam";
+	font-size: 12px;
+}	
+
+#head11:hover {
+	color: #4d4dff;
+}
+
+#head12:hover {
+	color: #4d4dff;
+}
+
+#head13:hover {
+	color: #4d4dff;
+}
+
+#head14:hover {
+	color: #4d4dff;
+}
+
+#head21:hover {
+	color: #4d4dff;
+}
+
+#head22:hover {
+	color: #4d4dff;
+}
+
+#head11, #head12, #head13, #head14 {
+	right: 16%;	
+}
+
+#head21, #head22 {
+	right: 31%;	
+	
+}
+#head11, #head21 {
+	top: 22.5%;
+}
+
+#head12, #head22 {
+	top: 33%;
+}
+
+#head13 {
+	top: 44%;
+}
+
+#head14 {
+	top: 55.5%;
+}
+
+.twitter1, .twitter12, .twitter2, .twitter22, .google_plus1, .google_plus12, .facebook1, .facebook12, .google_plus2, .google_plus22, .facebook2, .facebook22 {
+	position: absolute;
+}
+
+.twitter1, .twitter2 {
+	width: 35px;
+	height: 32px;
+	right: 50%;
+    filter: contrast(0%) brightness(70%);
+}
+
+.twitter12, .twitter22 {
+	width: 35px;
+	height: 32px;
+	right: 50%;
+    opacity: 0;
+}
+
+.google_plus1, .google_plus2, .google_plus12, .google_plus22 {
+	width: 33px;
+	height: 31px;
+	right: 52.9%;
+}
+
+.facebook1, .facebook12, .facebook2, .facebook22 {
+	width: 33px;
+	height: 31px;
+	right: 55.8%;
+}
+
+.twitter1, .twitter12 {
+	top: 30%;
+}
+
+.twitter2, .twitter22 {
+	top: 53.5%;
+}
+
+.google_plus1, .google_plus12, .facebook1, .facebook12{
+	top: 30.5%;
+}
+
+.google_plus2, .google_plus22, .facebook2, .facebook22{
+	top: 54.5%;
+}
+
+.google_plus1, .facebook1, .google_plus2, .facebook2{
+	filter: contrast(0%) brightness(70%);
+}
+
+.google_plus12, .facebook12, .google_plus22, .facebook22 {
+	opacity: 0;
+}
+
+.container1:hover .twitter12 {
+  opacity: 1;
+}
+
+.container2:hover .google_plus12 {
+  opacity: 1;
+}
+
+.container3:hover .facebook12 {
+  opacity: 1;
+}
+
+.container4:hover .twitter22 {
+  opacity: 1;
+}
+
+.container5:hover .google_plus22 {
+  opacity: 1;
+}
+
+.container6:hover .facebook22 {
+  opacity: 1;
+}

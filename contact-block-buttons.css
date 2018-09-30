@@ -1,0 +1,195 @@
+.block_buttons{
+	position:absolute;
+	top: 13%;
+	right:0%;
+	width: 100%;
+	height: 20%;	
+}
+
+#title1, #title2, #title3, #title4, #title5, #title6 {
+	position:absolute;
+	top: 1px;
+	font-family: "Shabnam";
+	font-size: 11px;
+	color: 	#808080;	
+}
+
+#title1 {
+	right: 320px;
+}
+
+#title1:hover {
+	border-bottom: 4px solid #4d4dff;
+}
+
+#title2 {
+	right: 445px;
+}
+
+#title2:hover {
+	border-bottom: 4px solid #4d4dff;
+}
+
+#title3 {
+	right: 570px;
+}
+
+#title3:hover {
+	border-bottom: 4px solid #4d4dff;
+}
+
+#title4 {
+	right: 695px;	
+}
+
+#title4:hover {
+	border-bottom: 4px solid #4d4dff;
+}
+
+#title5 {
+	right: 820px;	
+}
+
+#title5:hover {
+	border-bottom: 4px solid #4d4dff;
+}
+
+#title6 {
+	right: 945px;	
+}
+
+#title6:hover {
+	border-bottom: 4px solid #4d4dff;
+}
+
+#nav_line {
+	position: absolute;
+	top: 25px;
+	right: 8%;
+	width: 85%;
+}
+
+#block1, #block2, #block3, #block4, #block5, #block6 {
+	position: absolute;
+	top: 45px;
+	font-family: "Shabnam";
+	font-size: 11px;
+	text-align: center;
+	width: 152px;
+	padding-bottom: 3px;
+	padding-top: 50px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}	
+
+#block1:hover{
+	background-color: #4d4dff;
+}
+
+#block3:hover{
+	background-color: #4d4dff;
+}
+
+#block4:hover{
+	background-color: #4d4dff;
+}
+
+#block5:hover{
+	background-color: #4d4dff;
+}
+
+#block6:hover{
+	background-color: #4d4dff;
+}
+
+#block1, #block3, #block4, #block5, #block6 {
+	color: 	#bfbfbf;
+    border: 1px solid #808080;
+}
+
+#block1 {
+	right: 186.5px;
+}
+
+#block2 {
+	right: 349.5px;
+    color: 	blue;
+    border: 1px solid blue;
+}
+
+#block3 {
+	right: 514.5px;
+	
+}
+
+#block4 {
+	right: 679.5px;
+}
+
+#block5 {
+	right: 844.5px;
+}
+
+#block6 {
+	right: 1009.5px;
+}
+
+#block1_icon, #block2_icon, #block3_icon, #block4_icon, #block5_icon, #block6_icon {
+	position: absolute;
+}
+
+#block1_icon{
+	right: 240px;
+	width: 42px;
+	height: 34px;
+	top: 51px;
+}
+
+#block2_icon {
+	right: 408px;
+	width: 35px;
+	height: 30px;
+	top: 55px;
+}
+
+#block3_icon {
+	right: 576px;
+	width: 30px;
+	height: 35px;
+	top: 52px;
+}
+
+#block4_icon {
+	right: 745px;
+	width: 25px;
+	height: 26x;
+	top: 60px;
+}
+
+#block5_icon {
+	right: 907px;
+	width: 30px;
+	height: 32px;
+	top: 56px;
+}
+
+#block6_icon {
+	right: 1070px;
+	width: 30px;
+	height: 30px;
+	top: 56px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

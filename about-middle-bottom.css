@@ -1,0 +1,122 @@
+#brands {
+	position:absolute;
+	right: 13.75%;
+	bottom: -13.25%;
+	width: 47.7%;
+	height: 36.75%;
+	border: 1px solid #D3D3D3;
+}
+
+#brand_experience {
+	position:absolute;
+    font-family: "Shabnam";
+	color: white;
+	background-color: blue;
+	border-color: #4169E1;
+	padding: 7px 15px 7px 25px;
+	border-radius: 25px;
+	border-width: 30px;
+	top: 89.25%;
+	right: 28%;
+}
+
+#brand_experience:hover {
+	background-color: #4d4dff;
+}
+
+.news {
+	position:absolute;
+	background-color: #4169E1;
+	color: white;
+	width: 24%;
+	height: 37%;
+	right: 62.5%;
+	bottom: -13.25%;
+	border-radius: 2%;
+	box-shadow: 1px 22px 40px -0.1px #888888,
+				-2px 5px 40px -20px #888888;
+	
+}
+
+.news:hover {
+	background-color: #4d4dff;
+
+}
+#open_envelope_icon, #news_text1, #news_text2, #email_input_field, .closed_envelope_icon, .closed_envelope_icon2, #member_button {
+	position:absolute;
+    font-family: "Shabnam";
+}
+
+#open_envelope_icon {
+	top: 7%;
+	right: 43.5%;	
+	height: 30px;
+	width: 30px;
+}
+
+#news_text1 {
+	top: 24%;
+	right: 36%;
+	font-size: 13px;
+}
+
+#news_text2 {
+	top: 40%;
+	right: 39.5%;
+	font-size: 13px;	
+}
+
+#email_input_field {
+	top: 55%;
+	right: 12.7%;
+	background-color:white;
+	height: 22px;
+	width: 182px;
+	font-size: 9px;
+	color: #4169E1;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-color: transparent;
+	padding-right: 43px;
+}
+
+.big:hover #email_input_field{
+	color: 	#696969;
+}
+
+.closed_envelope_icon, .closed_envelope_icon2 {
+    height: 4px;
+	width: 5px;
+	top: 58%;
+	right: 60px;		
+}
+
+.closed_envelope_icon2 {
+	opacity: 0;
+}
+
+.big:hover .closed_envelope_icon2 {
+	opacity: 1;
+}
+
+#member_button{
+	top: 77%;
+	right: 34.75%;
+	background-color: #1a1a1a;
+	height: 30px;
+	width: 80px;
+	font-size: 9px;
+	color: #ffffff;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-color: transparent;
+	text-align: center;
+}
+
+#member_button:hover{
+	background-color: #00004d;
+}

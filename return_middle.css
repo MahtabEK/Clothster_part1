@@ -1,0 +1,82 @@
+.return_condition {
+	position: absolute;
+	top: 265px;
+	right: 0px;
+	left: 0px;
+}
+
+#return_condition_title, #good_situation_title {
+	position:absolute;
+	color: 	#696969;	
+	font-family: "Shabnam";	
+	font-size: 16px;
+}
+
+#return_condition_title {
+	right: 19.5%;
+	top: -30px;
+}
+
+#return_condition_text {
+	position:absolute;
+	top: 0px;
+	right: 19.5%;
+	color: 	#696969;	
+	font-family: "Shabnam";	
+	font-size: 14px;	
+}
+
+#return_condition_line {
+	position:absolute;
+	top: 70px;
+	right: 22%;
+	width: 58%;
+	filter: grayscale(400%);
+}
+
+#good_situation_title {
+	right: 19.6%;
+	top: 55%;	
+}
+
+#good_situation_text1, #good_situation_text2 {
+	position:absolute;
+	color: 	#696969;	
+	font-family: "Shabnam";	
+	font-size: 14px;	
+	line-height: 78%;	
+	right: 19.6%;
+}
+
+#good_situation_text1 {
+	top: 370px;
+}
+
+#good_situation_text2 {
+	top: 500px;
+}
+
+#return_image {
+	position: absolute;
+	top: 337px;
+	left: 315px;
+
+}
+
+#return_image_left {
+	position: absolute;
+	top: 408px;
+	left: 240px;
+}
+
+#return_image_right {
+	position: absolute;
+	top: 395px;
+	left: 715px;
+}
+
+
+
+
+
+

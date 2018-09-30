@@ -1,0 +1,120 @@
+.contact_form {
+	position: absolute;
+	top: 168.5%;
+	right: 26%;
+	width: 765px;
+	height: 275px;
+	font-family: "Shabnam";
+    font-size: 8px;
+	font-weight: lighter;
+	color: blue;		
+	border: transparent;
+	padding: 5px 27px;
+	border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	box-shadow: 15px 28px 22px -11px  #d9d9d9,
+				-15px 3px 22px -11px #d9d9d9;
+	
+}
+
+#form_title2, #form_title3, #form_title4, #form_title5 {
+	position: absolute;
+	top: 13%;
+	right: 8%;
+}
+
+#form_title2_field, #form_title3_field, #form_title4_field, #form_title5_field {
+	position: absolute;
+	right: 7.5%;
+	top: 21%;
+	height: 22px;
+	width: 185px;
+	padding-right:5px;
+	border: 1px solid #e0ebeb;
+	color: #cccccc;
+	background-color: #f0f5f5;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	padding-left: 10px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+}
+
+#form_title1_line {
+	position: absolute;
+	top: 10%;
+	right: 0%;
+	width: 818px;
+}
+#form_title3, #form_title3_field {
+	right: 37.5%;
+}
+
+#form_title4, #form_title4_field {
+	right: 68%;
+}
+
+#form_title5 {
+	top: 32%;
+}
+
+#form_title5_field {
+	top: 38.5%;
+	height: 20px;
+	width: 680px;
+	padding-bottom: 100px;
+}
+
+#form_title2_field:hover {
+	border: 1px solid blue;
+	background-color: white;
+	color:gray;
+}
+
+#form_title3_field:hover {
+	border: 1px solid blue;
+	background-color: white;
+	color:gray;
+}
+
+#form_title4_field:hover {
+	border: 1px solid blue;
+	background-color: white;
+	color:gray;
+}
+
+#form_title5_field:hover {
+	border: 1px solid blue;
+	background-color: white;
+	color:gray;
+}
+
+
+#send_button {
+	position: absolute;
+	left: 7%;
+	top: 86.75%;
+	height: 22px;
+	width: 155px;
+	font-family: "Shabnam";
+	font-size: 12px;
+	font-weight: lighter;
+	border: 1px solid blue;
+	color: blue;
+	background-color: white;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	padding-bottom: 20px;
+	padding-top: 5px;
+}
+
+#send_button:hover {
+	color: white;
+	background-color: blue;
+}
